@@ -1,0 +1,7 @@
+url                      : "https://funshop.github.io" 
+baseurl                  : "" 
+language : 'ko-kr'
+permalink: /:title
+
+#theme: jekyll-theme-slate
+remote_theme : daattali/beautiful-jekyll
