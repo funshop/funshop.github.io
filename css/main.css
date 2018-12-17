@@ -72,11 +72,11 @@ hr.small {
   text-shadow: none;
   background-color: {{ site.hover-col }};
 }
-::selection {
+/*::selection {
   color: white;
   text-shadow: none;
   background-color: {{ site.hover-col }};
-}
+}*/
 img::selection {
   color: white;
   background: transparent;
