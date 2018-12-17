@@ -1,0 +1,4 @@
+remote_theme : daattali/beautiful-jekyll
+
+url                      : "https://funshop.github.io" 
+baseurl                  : "" 
