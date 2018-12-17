@@ -3,4 +3,5 @@ baseurl                  : ""
 language : 'ko-kr'
 permalink: /:title
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme : daattali/beautiful-jekyll
